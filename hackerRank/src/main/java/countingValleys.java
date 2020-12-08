@@ -6,7 +6,7 @@ public class countingValleys {
 
     static class Result {
         static char DOWN='D';
-        static char UPPER='U';
+
         /*
          * Complete the 'countingValleys' function below.
          *
